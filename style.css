@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: navajowhite;
+}
+h1{
+color: brown;
+}
+li{
+    list-style: none;
+    float: left;
+}
+
